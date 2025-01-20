@@ -16,7 +16,8 @@ Which are the popular neighborhoods, their average prices and no. of listings.
 What are percent share of different property type and room type.
 How the pricing is varying with location, property type, reviews.
 What are the different correlations between type of hosts and factors like- reviews & price
-The tableau visualization has been published and can be directly viewed using the following link: (Tableau public link) : https://public.tableau.com/app/profile/shobhit.mohadikar/viz/AirbnbDashboard_17235087643920/AirbnbDashboard
+The tableau visualization has been published and can be directly viewed using the following link: (Tableau public link) : 
+https://public.tableau.com/app/profile/sahil.sahoo/viz/Airbnb_17230322142490/Dashboard2
 
 ---
 
