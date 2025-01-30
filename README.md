@@ -65,3 +65,24 @@ Target Audience The insights drawn could be helpful for both Hosts and Users. Ho
 * Host analysis
 
 ---
+
+### Findings
+
+* Shared room is barely available.
+
+* Entire apartment and private rooms consists of more than 95% of the total listings.
+  
+* Most number of listings originates from Brooklyn and Manhattan.
+  
+* Reason being is because these two cities are one of the most traveled destinations, therefore would have the most listing availability.
+
+* Queens and Staten Island appear to have similar distributions.
+  
+* Bronx is the cheapest of them all.
+
+* This is expected because Manhattan is one of the most expensive places to live in the world while Bronx appears to have lower standards of living.
+  
+*At its core is Manhattan, a densely populated that’s among the world’s major commercial, financial and cultural centers.
+
+
+---
