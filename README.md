@@ -82,7 +82,7 @@ Target Audience The insights drawn could be helpful for both Hosts and Users. Ho
 
 * This is expected because Manhattan is one of the most expensive places to live in the world while Bronx appears to have lower standards of living.
   
-*At its core is Manhattan, a densely populated that’s among the world’s major commercial, financial and cultural centers.
+* At its core is Manhattan, a densely populated that’s among the world’s major commercial, financial and cultural centers.
 
 
 ---
